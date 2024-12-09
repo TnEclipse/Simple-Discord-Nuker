@@ -1,13 +1,10 @@
 # Simple-Discord-Nuker
 Nukes a discord server (do not abuse this, will result in account deletion. Only for educational purposes)
 
-Python:
-import discord
-from di# Simple-Discord-Nuker
 Nukes a discord server (do not abuse this, will result in account deletion. Only for educational purposes)
 
 Python:
-import discord
+""import discord
 from discord.ext import commands
 import asyncio
 import aiohttp
@@ -153,7 +150,7 @@ async def commands(ctx):
 """
     await ctx.send(commands_message)
 
-bot.run("Your Bot Token")
+bot.run("Your Bot Token")""
 
 
 Instructions:
